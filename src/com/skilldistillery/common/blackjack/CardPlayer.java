@@ -12,13 +12,6 @@ public class CardPlayer {
 	public CardPlayer() {
 		
 	}
-
-//	public boolean hit(Scanner scanner) {
-//		if (scanner.nextLine().equals("Y")) {
-//			return true;
-//		}
-//		return false;
-//	}
 	
 	public void addCardToHand(Card card) {
 		hand.addCard(card);
