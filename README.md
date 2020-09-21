@@ -4,14 +4,14 @@ This week four project relies heavily on using object oriented programming to cr
 
 ### Lessons Used
 * Enums
-*Arrays
-*Object Oriented programming
-*Packages/Class structures
-*Pass by Value
-*Loops
-*Instances
-*Objects
-*Private/protected/public
+* Arrays
+* Object Oriented programming
+* Packages/Class structures
+* Pass by Value
+* Loops
+* Instances
+* Objects
+* Private/protected/public
 
 ### How to Run - Instructions
 1. The user is greeted by the program's simple welcome menu.
